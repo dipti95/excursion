@@ -19,3 +19,18 @@ body {
     background-color: black;
     color: white;
 }
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+.footer{
+    text-align: right;
+    color: grey;
+}
