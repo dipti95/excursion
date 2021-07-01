@@ -1,0 +1,21 @@
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.para1{
+    color: aquamarine;
+    font-size: 16px;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
